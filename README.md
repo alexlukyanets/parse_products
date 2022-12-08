@@ -13,5 +13,5 @@
 ### I need to tell that it was developed but not enough at all. 
 ### I havn't many time. It needs to write next pages request logic.
 ### And for dolcegabbana.com, crawler needs to extract more categories links
-### Also I didn't write logic for prict disconted parsing.
+### Also I didn't write logic for price disconted parsing.
 ### Just skills which I can implement
