@@ -11,6 +11,7 @@ settings = get_project_settings()
 runner = CrawlerRunner(settings)
 
 runner.crawl(HermesComCrawler)
+runner.crawl(UsDolcegabbanaComCrawler)
 
 d = runner.join()
 d.addBoth(lambda _: reactor.stop())
